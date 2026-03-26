@@ -30,6 +30,7 @@ In this project, `TARGET = 1` represents default, interpreted as a proxy for **n
 
 ## Dataset
 - **Dataset used:** Home Credit Default Risk
+- **Source:** Kaggle Home Credit Default Risk competition - https://www.kaggle.com/c/home-credit-default-risk
 - **Source file in this submission:** `application_train.7z`
 - **Expanded file used by the notebook:** `application_train.csv`
 - **Rows / columns:** `307,511` rows and `122` columns
@@ -51,7 +52,7 @@ Later project iterations can move closer to true tax lien prediction by incorpor
 
 ## Notebook Link
 Open the notebook file directly from this submission package:
-- `tax_lien_redemption_capstone_final_report.ipynb`
+[Open the notebook](./notebooks/tax_lien_redemption_capstone_final_report.ipynb)
 
 ## What the Notebook Includes
 The notebook contains:

@@ -137,3 +137,19 @@ Recommended next steps include:
 - evaluate subgroup fairness,
 - add **SHAP** explainability,
 - transition toward more tax-lien-specific data sources and engineered variables.
+
+## References
+
+- **Home Credit Default Risk dataset (Kaggle):** `https://www.kaggle.com/competitions/home-credit-default-risk` :contentReference[oaicite:0]{index=0}
+- **Scikit-learn documentation**
+  - `LogisticRegression`: `https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html`
+  - `GridSearchCV`: `https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html`
+  - `roc_auc_score`: `https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html` :contentReference[oaicite:1]{index=1}
+  - `average_precision_score`: `https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html` :contentReference[oaicite:2]{index=2}
+  - `RocCurveDisplay`: `https://scikit-learn.org/stable/modules/generated/sklearn.metrics.RocCurveDisplay.html` :contentReference[oaicite:3]{index=3}
+  - `PrecisionRecallDisplay`: `https://scikit-learn.org/stable/modules/generated/sklearn.metrics.PrecisionRecallDisplay.html` :contentReference[oaicite:4]{index=4}
+- **py7zr documentation:** `https://py7zr.readthedocs.io/` and user guide `https://py7zr.readthedocs.io/en/latest/user_guide.html` :contentReference[oaicite:5]{index=5}
+- **XGBoost documentation:** `https://xgboost.readthedocs.io/` and parameters guide `https://xgboost.readthedocs.io/en/stable/parameter.html` :contentReference[oaicite:6]{index=6}
+- **LightGBM documentation:** `https://lightgbm.readthedocs.io/` and features/tuning docs `https://lightgbm.readthedocs.io/en/latest/Features.html` and `https://lightgbm.readthedocs.io/en/latest/Parameters-Tuning.html` :contentReference[oaicite:7]{index=7}
+- **CatBoost documentation:** `https://catboost.ai/docs/en/` and Python classifier reference `https://catboost.ai/docs/en/concepts/python-reference_catboostclassifier` :contentReference[oaicite:8]{index=8}
+- **SHAP documentation:** `https://shap.readthedocs.io/`, `https://shap.readthedocs.io/en/latest/generated/shap.Explainer.html`, and overview notebook `https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html` :contentReference[oaicite:9]{index=9}

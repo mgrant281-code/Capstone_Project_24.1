@@ -29,8 +29,8 @@ The business goal is to identify which applicant- or loan-level features are ass
 In this project, `TARGET = 1` represents default, interpreted as a proxy for **non-redemption risk**.
 
 ## Dataset
-- **Dataset used:** Home Credit Default Risk
-- **Source:** Kaggle Home Credit Default Risk competition - https://www.kaggle.com/c/home-credit-default-risk
+- **Dataset used:** Home Credit Default Risk competition
+- **Source:** Kaggle https://www.kaggle.com/c/home-credit-default-risk
 - **Source file in this submission:** `application_train.7z`
 - **Expanded file used by the notebook:** `application_train.csv`
 - **Rows / columns:** `307,511` rows and `122` columns
